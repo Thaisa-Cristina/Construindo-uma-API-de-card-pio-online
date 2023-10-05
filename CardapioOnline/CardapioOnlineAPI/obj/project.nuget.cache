@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "K2GFQrwE++/g22TAu0rsSTBU0lDrrGlPf2HnT31JjKHYkmStSkZ0gaq+N/4rbTOdx2K/8geU8U5lAV88iAB2Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thaisa.CASAL\\Desktop\\C#\\CardapioOnline\\CardapioOnlineAPI\\CardapioOnlineAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thaisa.CASAL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\thaisa.CASAL\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\thaisa.CASAL\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\thaisa.CASAL\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\thaisa.CASAL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\thaisa.CASAL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
